@@ -26,4 +26,4 @@ See the data analysis Jupyter notebook I compiled, data.ipynb
 
 Writing Sample
 
-See the final paper completed for this project, paper.pdf
+See the final paper completed for this project, Gaze_Enabled_Magnification_For_Low_Vision_Users.pdf
