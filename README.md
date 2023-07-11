@@ -18,12 +18,12 @@ Test 4A/4B are the circle game and contain the same activities, but 4B enables g
 
 Javascript Code
 
-I have attached the entire code for this project. The github link is here: https://github.com/jxbreu22/public_html The best representation of my work can be found at Code/js/ in the following files: gazeMagStudy_1.js, gazeMagStudy2.js, and gazeMouse.js
+I have attached the entire code for this project. The best representation of my work can be found at Code/js/ in the following files: gazeMagStudy_1.js, gazeMagStudy2.js, and gazeMouse.js
 
 Python Code
 
-See the data analysis Jupyter notebook I compiled in the Google Drive folder, data.ipynb
+See the data analysis Jupyter notebook I compiled, data.ipynb
 
 Writing Sample
 
-See the final paper completed for this project in the Google Drive folder, paper.pdf
+See the final paper completed for this project, paper.pdf
